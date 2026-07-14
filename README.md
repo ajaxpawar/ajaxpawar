@@ -57,6 +57,4 @@ AI
 
 ## 📫 Reach Me
 
-LinkedIn:
-[your linkedin](https://www.linkedin.com/in/ajaypawars/)
-
+LinkedIn:https://www.linkedin.com/in/ajaypawars/
