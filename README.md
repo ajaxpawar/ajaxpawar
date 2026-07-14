@@ -58,7 +58,5 @@ AI
 ## 📫 Reach Me
 
 LinkedIn:
-your linkedin
+[your linkedin](https://www.linkedin.com/in/ajaypawars/)
 
-Email:
-your email
